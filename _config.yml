@@ -29,6 +29,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.Mythlium.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MythliumTV
 github_username:  Mythlium
+twitch_username: Mythlium
+youtube_username: Myhtlium
 
 # Build settings
 theme: minima
